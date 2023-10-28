@@ -1,0 +1,4 @@
+D06_Le Van Nam_8000000_Jump_[PHP, Ruby]_1
+D09_Nguyen Quang Duy_10000000_Walk_[Java, PHP, Java Script]_5
+D12_Tran Duc Minh_9000000_Walk_[C, Java, PHP]_3
+D13_Nguyen Thanh Quan_10000000_Walk_[C++, Java, PHP]_5
